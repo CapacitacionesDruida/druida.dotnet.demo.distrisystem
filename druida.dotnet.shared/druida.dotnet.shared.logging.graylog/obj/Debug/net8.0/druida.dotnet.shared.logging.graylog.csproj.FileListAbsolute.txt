@@ -1,0 +1,15 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\bin\Debug\net8.0\druida.dotnet.shared.logging.graylog.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\bin\Debug\net8.0\druida.dotnet.shared.logging.graylog.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\bin\Debug\net8.0\druida.dotnet.shared.logging.graylog.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\bin\Debug\net8.0\druida.dotnet.shared.discovery.consul.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\bin\Debug\net8.0\druida.dotnet.shared.discovery.consul.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.csproj.CopyComplete
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\refint\druida.dotnet.shared.logging.graylog.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\druida.dotnet.shared.logging.graylog.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.logging.graylog\obj\Debug\net8.0\ref\druida.dotnet.shared.logging.graylog.dll

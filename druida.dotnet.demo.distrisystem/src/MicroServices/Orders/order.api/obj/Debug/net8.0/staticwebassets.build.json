@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "1wWmaZJEp1iujCgWgBzXk+RBX2TbsUdjJpIX/i/GaF4=",
+  "Source": "druida.dotnet.demo.distrisystem.order.api",
+  "BasePath": "_content/druida.dotnet.demo.distrisystem.order.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "druida.dotnet.demo.distrisystem.order.api\\wwwroot",
+      "Source": "druida.dotnet.demo.distrisystem.order.api",
+      "ContentRoot": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\wwwroot\\",
+      "BasePath": "_content/druida.dotnet.demo.distrisystem.order.api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\wwwroot\\api\\specification.json",
+      "SourceId": "druida.dotnet.demo.distrisystem.order.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\wwwroot\\",
+      "BasePath": "_content/druida.dotnet.demo.distrisystem.order.api",
+      "RelativePath": "api/specification.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\specification.json"
+    },
+    {
+      "Identity": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\wwwroot\\swagger\\specification.json",
+      "SourceId": "druida.dotnet.demo.distrisystem.order.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\wwwroot\\",
+      "BasePath": "_content/druida.dotnet.demo.distrisystem.order.api",
+      "RelativePath": "swagger/specification.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\specification.json"
+    }
+  ]
+}

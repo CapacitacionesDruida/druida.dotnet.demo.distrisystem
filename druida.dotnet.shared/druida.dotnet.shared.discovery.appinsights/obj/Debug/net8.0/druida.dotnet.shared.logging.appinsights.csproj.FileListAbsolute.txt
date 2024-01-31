@@ -1,0 +1,12 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\bin\Debug\net8.0\druida.dotnet.shared.logging.appinsights.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\bin\Debug\net8.0\druida.dotnet.shared.logging.appinsights.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\bin\Debug\net8.0\druida.dotnet.shared.logging.appinsights.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\druida.dotnet.shared.logging.appinsights.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\druida.dotnet.shared.logging.appinsights.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\druida.dotnet.shared.logging.appinsights.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\druida.dotnet.shared.logging.appinsights.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\druida.dotnet.shared.logging.appinsights.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\druida.dotnet.shared.logging.appinsights.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\refint\druida.dotnet.shared.logging.appinsights.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\druida.dotnet.shared.logging.appinsights.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.appinsights\obj\Debug\net8.0\ref\druida.dotnet.shared.logging.appinsights.dll

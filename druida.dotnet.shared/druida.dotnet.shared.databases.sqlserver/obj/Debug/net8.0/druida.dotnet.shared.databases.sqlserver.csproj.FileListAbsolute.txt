@@ -1,0 +1,12 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\bin\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\bin\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\bin\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\refint\druida.dotnet.shared.databases.sqlserver.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\druida.dotnet.shared.databases.sqlserver.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.sqlserver\obj\Debug\net8.0\ref\druida.dotnet.shared.databases.sqlserver.dll

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\wwwroot\\api\\specification.json",
+      "PackagePath": "staticwebassets\\api\\specification.json"
+    },
+    {
+      "Id": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\wwwroot\\swagger\\specification.json",
+      "PackagePath": "staticwebassets\\swagger\\specification.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.druida.dotnet.demo.distrisystem.order.api.props",
+      "PackagePath": "build\\druida.dotnet.demo.distrisystem.order.api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.druida.dotnet.demo.distrisystem.order.api.props",
+      "PackagePath": "buildMultiTargeting\\druida.dotnet.demo.distrisystem.order.api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.druida.dotnet.demo.distrisystem.order.api.props",
+      "PackagePath": "buildTransitive\\druida.dotnet.demo.distrisystem.order.api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.druida.dotnet.demo.distrisystem.order.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

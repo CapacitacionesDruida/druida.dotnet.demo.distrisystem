@@ -1,0 +1,17 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\bin\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\bin\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\bin\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\bin\Debug\net8.0\druida.dotnet.shared.comunication.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\bin\Debug\net8.0\druida.dotnet.shared.serialization.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\bin\Debug\net8.0\druida.dotnet.shared.comunication.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\bin\Debug\net8.0\druida.dotnet.shared.serialization.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.csproj.CopyComplete
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\refint\druida.dotnet.shared.comunication.rabbitmq.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\druida.dotnet.shared.comunication.rabbitmq.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication.rabbitmq\obj\Debug\net8.0\ref\druida.dotnet.shared.comunication.rabbitmq.dll

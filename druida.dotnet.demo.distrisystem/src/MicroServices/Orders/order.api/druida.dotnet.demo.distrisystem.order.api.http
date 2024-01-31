@@ -1,0 +1,6 @@
+@druida.dotnet.demo.distrisystem.order.api_HostAddress = http://localhost:5236
+
+GET {{druida.dotnet.demo.distrisystem.order.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

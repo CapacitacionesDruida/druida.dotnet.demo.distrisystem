@@ -1,0 +1,12 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\bin\Debug\net8.0\druida.dotnet.shared.discovery.consul.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\bin\Debug\net8.0\druida.dotnet.shared.discovery.consul.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\bin\Debug\net8.0\druida.dotnet.shared.discovery.consul.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\druida.dotnet.shared.discovery.consul.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\druida.dotnet.shared.discovery.consul.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\druida.dotnet.shared.discovery.consul.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\druida.dotnet.shared.discovery.consul.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\druida.dotnet.shared.discovery.consul.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\druida.dotnet.shared.discovery.consul.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\refint\druida.dotnet.shared.discovery.consul.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\druida.dotnet.shared.discovery.consul.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.discovery.consul\obj\Debug\net8.0\ref\druida.dotnet.shared.discovery.consul.dll

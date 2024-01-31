@@ -1,0 +1,17 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\bin\Debug\net8.0\druida.dotnet.shared.databases.mongodb.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\bin\Debug\net8.0\druida.dotnet.shared.databases.mongodb.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\bin\Debug\net8.0\druida.dotnet.shared.databases.mongodb.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\bin\Debug\net8.0\druida.dotnet.shared.discovery.consul.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\bin\Debug\net8.0\druida.dotnet.shared.secrets.hashicorpvault.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\bin\Debug\net8.0\druida.dotnet.shared.discovery.consul.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\bin\Debug\net8.0\druida.dotnet.shared.secrets.hashicorpvault.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.csproj.CopyComplete
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\refint\druida.dotnet.shared.databases.mongodb.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\druida.dotnet.shared.databases.mongodb.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mongodb\obj\Debug\net8.0\ref\druida.dotnet.shared.databases.mongodb.dll

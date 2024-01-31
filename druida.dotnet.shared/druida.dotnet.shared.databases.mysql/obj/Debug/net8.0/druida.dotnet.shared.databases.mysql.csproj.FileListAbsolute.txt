@@ -1,0 +1,12 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\bin\Debug\net8.0\druida.dotnet.shared.databases.mysql.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\bin\Debug\net8.0\druida.dotnet.shared.databases.mysql.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\bin\Debug\net8.0\druida.dotnet.shared.databases.mysql.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\druida.dotnet.shared.databases.mysql.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\druida.dotnet.shared.databases.mysql.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\druida.dotnet.shared.databases.mysql.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\druida.dotnet.shared.databases.mysql.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\druida.dotnet.shared.databases.mysql.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\druida.dotnet.shared.databases.mysql.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\refint\druida.dotnet.shared.databases.mysql.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\druida.dotnet.shared.databases.mysql.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.databases.mysql\obj\Debug\net8.0\ref\druida.dotnet.shared.databases.mysql.dll

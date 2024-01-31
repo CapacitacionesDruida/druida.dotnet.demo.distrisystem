@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documentation", "documentation", "{5D840B82-C295-430A-98A1-127F3D5D024B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infraestructure", "infraestructure", "{3BE4D40F-13A5-45EF-82AF-35A73BFBB270}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{54F7668A-42BB-4F57-BBBC-50728D9F95A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{8AB87DC0-E959-4339-AEB5-D1F6A9C0DF97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroServices", "MicroServices", "{FEC5F493-5C0D-49A0-94B9-9B0BE4BC5352}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products", "Products", "{9CC4F2E8-5E3B-4034-9C90-F5B11348DB14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7A385D95-A331-4E1B-8E33-A066614DF02E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{BFF6549D-D08D-4B6E-BC75-7CA47EAA1A09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "druida.dotnet.shared.setup", "..\druida.dotnet.shared\druida.dotnet.shared.setup\druida.dotnet.shared.setup.csproj", "{4177865A-5E42-4409-9CB8-AB31D3D83BB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orders", "Orders", "{688461ED-A6E2-4BC6-B354-A48F9C3B8CE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{92E89B27-027E-480F-A15D-0B8E61EA71BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Subscriptions", "Subscriptions", "{FFADCA95-D3E4-4762-BF1B-DA40F2C1005B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "order.api", "src\MicroServices\Orders\order.api\order.api.csproj", "{DE44D30F-67DE-4997-971D-CB236051B213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4177865A-5E42-4409-9CB8-AB31D3D83BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4177865A-5E42-4409-9CB8-AB31D3D83BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4177865A-5E42-4409-9CB8-AB31D3D83BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4177865A-5E42-4409-9CB8-AB31D3D83BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE44D30F-67DE-4997-971D-CB236051B213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE44D30F-67DE-4997-971D-CB236051B213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE44D30F-67DE-4997-971D-CB236051B213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE44D30F-67DE-4997-971D-CB236051B213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AB87DC0-E959-4339-AEB5-D1F6A9C0DF97} = {54F7668A-42BB-4F57-BBBC-50728D9F95A1}
+		{FEC5F493-5C0D-49A0-94B9-9B0BE4BC5352} = {54F7668A-42BB-4F57-BBBC-50728D9F95A1}
+		{9CC4F2E8-5E3B-4034-9C90-F5B11348DB14} = {FEC5F493-5C0D-49A0-94B9-9B0BE4BC5352}
+		{7A385D95-A331-4E1B-8E33-A066614DF02E} = {9CC4F2E8-5E3B-4034-9C90-F5B11348DB14}
+		{4177865A-5E42-4409-9CB8-AB31D3D83BB8} = {BFF6549D-D08D-4B6E-BC75-7CA47EAA1A09}
+		{688461ED-A6E2-4BC6-B354-A48F9C3B8CE2} = {FEC5F493-5C0D-49A0-94B9-9B0BE4BC5352}
+		{92E89B27-027E-480F-A15D-0B8E61EA71BC} = {688461ED-A6E2-4BC6-B354-A48F9C3B8CE2}
+		{FFADCA95-D3E4-4762-BF1B-DA40F2C1005B} = {FEC5F493-5C0D-49A0-94B9-9B0BE4BC5352}
+		{DE44D30F-67DE-4997-971D-CB236051B213} = {688461ED-A6E2-4BC6-B354-A48F9C3B8CE2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B7AF01-84D6-493A-8000-1AAE249DD8B4}
+	EndGlobalSection
+EndGlobal

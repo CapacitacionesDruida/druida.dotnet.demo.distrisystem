@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\druida.dotnet.demo.distrisystem.order.api.csproj": {}
+  },
+  "projects": {
+    "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\druida.dotnet.demo.distrisystem.order.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\druida.dotnet.demo.distrisystem.order.api.csproj",
+        "projectName": "druida.dotnet.demo.distrisystem.order.api",
+        "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\druida.dotnet.demo.distrisystem.order.api.csproj",
+        "packagesPath": "C:\\Users\\juday\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.demo.distrisystem\\src\\MicroServices\\Orders\\druida.dotnet.demo.distrisystem.order.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ProyectosDruida/_packaging/DruidaFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.setup\\druida.dotnet.shared.setup.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.setup\\druida.dotnet.shared.setup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "NSwag.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[14.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.setup\\druida.dotnet.shared.setup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.setup\\druida.dotnet.shared.setup.csproj",
+        "projectName": "druida.dotnet.shared.setup",
+        "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.setup\\druida.dotnet.shared.setup.csproj",
+        "packagesPath": "C:\\Users\\juday\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.setup\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ProyectosDruida/_packaging/DruidaFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.comunication.rabbitmq\\druida.dotnet.shared.comunication.rabbitmq.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.comunication.rabbitmq\\druida.dotnet.shared.comunication.rabbitmq.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.databases.mongodb\\druida.dotnet.shared.databases.mongodb.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.databases.mongodb\\druida.dotnet.shared.databases.mongodb.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.databases.mysql\\druida.dotnet.shared.databases.mysql.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.databases.mysql\\druida.dotnet.shared.databases.mysql.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.databases.sqlserver\\druida.dotnet.shared.databases.sqlserver.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.databases.sqlserver\\druida.dotnet.shared.databases.sqlserver.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.discovery.consul\\druida.dotnet.shared.discovery.consul.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.discovery.consul\\druida.dotnet.shared.discovery.consul.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.eventsourcing\\druida.dotnet.shared.eventsourcing.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.eventsourcing\\druida.dotnet.shared.eventsourcing.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.logging.graylog\\druida.dotnet.shared.logging.graylog.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.logging.graylog\\druida.dotnet.shared.logging.graylog.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.secrets.hashicorpvault\\druida.dotnet.shared.secrets.hashicorpvault.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.secrets.hashicorpvault\\druida.dotnet.shared.secrets.hashicorpvault.csproj"
+              },
+              "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.serialization\\druida.dotnet.shared.serialization.csproj": {
+                "projectPath": "E:\\Proyectos\\Soluciones\\Soluciones Druida\\druida.dotnet.demo.distrisystem\\druida.dotnet.shared\\druida.dotnet.shared.serialization\\druida.dotnet.shared.serialization.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.InMemory.Storage": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.0.2, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

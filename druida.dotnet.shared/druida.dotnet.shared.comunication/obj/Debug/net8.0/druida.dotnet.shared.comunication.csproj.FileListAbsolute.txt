@@ -1,0 +1,11 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\druida.dotnet.shared.comunication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\druida.dotnet.shared.comunication.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\druida.dotnet.shared.comunication.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\druida.dotnet.shared.comunication.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\bin\Debug\net8.0\druida.dotnet.shared.comunication.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\bin\Debug\net8.0\druida.dotnet.shared.comunication.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\bin\Debug\net8.0\druida.dotnet.shared.comunication.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\druida.dotnet.shared.comunication.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\refint\druida.dotnet.shared.comunication.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\druida.dotnet.shared.comunication.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.comunication\obj\Debug\net8.0\ref\druida.dotnet.shared.comunication.dll

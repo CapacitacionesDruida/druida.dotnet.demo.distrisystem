@@ -1,0 +1,12 @@
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\bin\Debug\net8.0\druida.dotnet.shared.serialization.deps.json
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\bin\Debug\net8.0\druida.dotnet.shared.serialization.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\bin\Debug\net8.0\druida.dotnet.shared.serialization.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\druida.dotnet.shared.serialization.csproj.AssemblyReference.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\druida.dotnet.shared.serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\druida.dotnet.shared.serialization.AssemblyInfoInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\druida.dotnet.shared.serialization.AssemblyInfo.cs
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\druida.dotnet.shared.serialization.csproj.CoreCompileInputs.cache
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\druida.dotnet.shared.serialization.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\refint\druida.dotnet.shared.serialization.dll
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\druida.dotnet.shared.serialization.pdb
+E:\Proyectos\Soluciones\Soluciones Druida\druida.dotnet.shared\druida.dotnet.shared.serialization\obj\Debug\net8.0\ref\druida.dotnet.shared.serialization.dll

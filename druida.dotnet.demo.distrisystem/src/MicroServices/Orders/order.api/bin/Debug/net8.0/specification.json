@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>druida.dotnet.demo.distrisystem.order.api</name>
+    </assembly>
+    <members>
+        <member name="T:druida.dotnet.demo.distrisystem.order.api.Controllers.WeatherForecasts">
+            <summary>
+            Endpoint with information about the weather
+            </summary>
+        </member>
+        <member name="M:druida.dotnet.demo.distrisystem.order.api.Controllers.WeatherForecasts.Map(Microsoft.AspNetCore.Builder.WebApplication)">
+            <summary>
+            Override map method
+            </summary>
+            <param name="app"></param>
+        </member>
+        <member name="M:druida.dotnet.demo.distrisystem.order.api.Controllers.WeatherForecasts.GetWeatherForecasts">
+            <summary>
+            Get all information about the weather
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

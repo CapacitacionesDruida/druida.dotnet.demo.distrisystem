@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+	
+	<PropertyGroup>
+		<RootNamespace>druida.dotnet.shared.setup</RootNamespace>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	</PropertyGroup>
+	
+	<ItemGroup>
+	  <None Include="..\.editorconfig" Link=".editorconfig" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Ardalis.GuardClauses" Version="4.4.0" />
+		<PackageReference Include="AspNetCore.HealthChecks.UI" Version="8.0.0" />
+		<PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.0" />
+		<PackageReference Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="8.0.0" />		
+		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.1" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+		<PackageReference Include="NSwag.AspNetCore" Version="14.0.2" />
+		<PackageReference Include="OpenTelemetry.Exporter.Console" Version="1.7.0" />
+		<PackageReference Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.7.0" />
+		<PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.7.0" />
+		<PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.7.0" />
+		<PackageReference Include="Scrutor" Version="4.2.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\druida.dotnet.shared.comunication.rabbitmq\druida.dotnet.shared.comunication.rabbitmq.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.databases.mongodb\druida.dotnet.shared.databases.mongodb.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.databases.mysql\druida.dotnet.shared.databases.mysql.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.databases.sqlserver\druida.dotnet.shared.databases.sqlserver.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.discovery.consul\druida.dotnet.shared.discovery.consul.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.eventsourcing\druida.dotnet.shared.eventsourcing.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.logging.graylog\druida.dotnet.shared.logging.graylog.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.secrets.hashicorpvault\druida.dotnet.shared.secrets.hashicorpvault.csproj" />
+	  <ProjectReference Include="..\druida.dotnet.shared.serialization\druida.dotnet.shared.serialization.csproj" />
+	</ItemGroup>
+</Project>

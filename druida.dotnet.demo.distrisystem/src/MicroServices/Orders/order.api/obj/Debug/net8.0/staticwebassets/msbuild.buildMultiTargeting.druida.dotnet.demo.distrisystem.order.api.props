@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\druida.dotnet.demo.distrisystem.order.api.props" />
+</Project>
